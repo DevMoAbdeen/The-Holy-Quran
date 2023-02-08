@@ -1,6 +1,6 @@
 # holy_quran
 
-A new Flutter project.
+The Holy Quran using JSON
 
 ## Getting Started
 
